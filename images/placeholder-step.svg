@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 540" role="img" aria-label="Screenshot placeholder">
+  <defs>
+    <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse">
+      <path d="M24 0H0V24" fill="none" stroke="#1c2436" stroke-width="1"/>
+    </pattern>
+  </defs>
+  <rect width="960" height="540" fill="#0a0e18"/>
+  <rect width="960" height="540" fill="url(#grid)"/>
+  <rect x="24" y="24" width="912" height="492" rx="12" fill="none" stroke="#3a4560" stroke-width="2" stroke-dasharray="10 8"/>
+  <circle cx="480" cy="230" r="36" fill="none" stroke="#8a63f8" stroke-width="2"/>
+  <path d="M462 230h36M480 212v36" stroke="#8a63f8" stroke-width="2" stroke-linecap="round"/>
+  <text x="480" y="300" text-anchor="middle" fill="#c4b2ff" font-family="Arial, Helvetica, sans-serif" font-size="22" font-weight="600">Screenshot placeholder</text>
+  <text x="480" y="334" text-anchor="middle" fill="#6f7890" font-family="Arial, Helvetica, sans-serif" font-size="16">Drop your Meetup screenshot here</text>
+</svg>
